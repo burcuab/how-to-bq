@@ -5,3 +5,4 @@
 * [How to get correct value for each event key (COALESCE)](getValuePerEventKey.sql)
 * [How to update event data to remove PII in nested GA dataset](updateNestedDataset.sql) 
 * [How to query ecom metrics per item and item category](ecom_metrics_per_item.sql) 
+* [How to query session level funnel using ecom metrics](sessionLevelFunnel.sql) 
